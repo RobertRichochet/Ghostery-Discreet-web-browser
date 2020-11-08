@@ -1,2 +1,2 @@
-# Advance Tech Trends Securtiy Software
-Advance Security Software encrpyption for discreet gaming.
+# Ghostery Discreet Web Browser.
+Ghostery Browser for non tracking brower.
